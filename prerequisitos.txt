@@ -1,0 +1,16 @@
+instalado (modo administrador)
+node.js
+npm
+git
+express
+
+instalar yeoman
+npm install -g yo
+
+tener instalado
+bower
+grunt-cli
+grunt-init
+
+instalar generador de angular
+npm install -g generator-angular

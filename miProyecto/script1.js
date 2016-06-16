@@ -1,0 +1,3 @@
+function function_uno(argument) {
+	// body...
+}
